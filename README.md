@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hasnat 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate with Developers
+- 👀 I’m interested in Data Science and Flutter App Development.
+- 🌱 I’m currently learning Flutter for my FYP and also Data Science.
+- 💞️ I’m looking to collaborate with Developers and Data Scientist.
 
 <!---
 HAS0786/HAS0786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
