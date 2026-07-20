@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasnat 
 - 👀 I’m interested in Data Science and Flutter App Development.
-- 🌱 I’m currently learning Flutter for my FYP and also Data Science.
+- 🌱 I’m currently learning Data Analyst for my career anf Flutter for my FYP and have a keen interest to move into Data Science.
 - 💞️ I’m looking to collaborate with Developers and Data Scientist.
 
 <!---
